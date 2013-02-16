@@ -8,6 +8,5 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 
 ## DIY Makers who have Contributed to this Repo (*note, this will later be a challenge on the skill*)
 
-- jlord
-- thisandagain
-- 
+* jlord
+* thisandagain
