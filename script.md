@@ -1,3 +1,5 @@
+// This is the work-in-progress page that will be the bones of the DIY tutorial on how to be an Open Sourcerer on Github
+
 ## What is Open Source
 Open Source is a phrase used to describe sharing how you made something. When you show someone on DIY how you made your project, you're open sourcing that project! 
 
