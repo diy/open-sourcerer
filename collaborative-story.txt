@@ -2,5 +2,4 @@
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
-
-Once upon a time, in a galaxy far, far away. Things happened! Then, one day, something very big happened.
+Once upon a time, in a galaxy far, far away.  Things happened! It was snowy and sunny at the same time. Then, one day, something very big happened.
