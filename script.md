@@ -68,7 +68,7 @@ Let's check our git in Bash. In the Bash window type:
 
 You should have been returned a line that reads version 1.8.1… this means that git was correctly installed and is up and running!
 
-> screenshot
+![git --version](http://diy-visualpedia.s3.amazonaws.com/git-version.png)
 
 ### Configure Git
 We need to tell Git who we are so that when we move files around it knows who is moving them. Type the following lines one at a time into Bash and inside of the quotations add the email you signed up to Github with and your Github username.
@@ -76,7 +76,7 @@ We need to tell Git who we are so that when we move files around it knows who is
     git config --global user.email "yourgithub@email.com"
     git config --global user.name "yourgithubusername"
     
-> screenshot
+![git config](http://diy-visualpedia.s3.amazonaws.com/git-config.png)
 
 ## Let's Get to Work!
 We want to make changes to a file in DIY's Open-Sourcerer repo and sumbit those changes back to DIY so that they can be incorporated into the original. Then everyone will be able to see each others additions and work together to build something.
