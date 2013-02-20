@@ -84,16 +84,20 @@ We want to make changes to a file in DIY's Open-Sourcerer repo and sumbit those 
 ### Fork
 This is how we create a remote copy (that means it's stored on Github.com) of a project on our account that stays linked to the original (because we want our changes to affect this original).
 
+![placeholder](http://diy-visualpedia.s3.amazonaws.com/placeholder.jpg)
 > diagram of what fork is in the git universe
 
 1. Go to [github.com/diy](http://github.com/diy) and click on the repo [Open-Sourcerer](https://github.com/diy/open-sourcerer).
 2. Near the top right, click `Fork`. See the animation? This means we're creating a copy of the code onto our account and it will be linked to the original on DIY's account. 
+
+![forking](http://diy-visualpedia.s3.amazonaws.com/repo-fork.png)
 
 ### Clone 
 Now that we've forked the files to our Github account, we need to clone (aka copy) them so that we have a local (on our computer) version of the files. Our clone will be linked to our fork which is linked to the DIY original.
 
 As we do this, we'll also be learning how to use Bash. By typing comands we can tell the computer to the same things that we do by clicking our mouse. 
 
+![placeholder](http://diy-visualpedia.s3.amazonaws.com/placeholder.jpg)
 > diagram of what clone is in the git universe
 
 ### Open Bash
