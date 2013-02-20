@@ -10,7 +10,9 @@ Open Source projects are great because everyone can learn from each other and ev
 ## Git and Github
 Git is a software that helps manage your code. It helps you see the changes that you've made, called *diffs*, and undo changes when you've saved mistakes! Github makes Git even easier and social. With Github you can put your code online and share it with others. Users can create new projects and work together on projects. You can help someone thousands of miles away with their project! 
 
-Lot of places use Github for their code and a lot of places open source their code. Here is [DIY's account](https://github.com/diy) - all of our code that runs the website and app is stored on Github and we've made xxx projects open source. The [New York Times](https://github.com/NYTimes), [Facebook](https://github.com/facebook), an [Mojang](https://github.com/Mojang) who make Minecraft are on Github, too. 
+Lots of places use Github for their code and a lot of places open source their code. Here is [DIY's account](https://github.com/diy) - all of our code that runs the website and app is stored on Github and we've made xxx projects open source. The [New York Times](https://github.com/NYTimes), [Facebook](https://github.com/facebook), an [Mojang](https://github.com/Mojang) who make Minecraft are on Github, too. 
+
+Oh, and Github has a cool mascot, Octocat, check out all the [personalities](http://octodex.github.com/)!
 
 
 ### Make a Github Account
@@ -21,33 +23,40 @@ Lot of places use Github for their code and a lot of places open source their co
     * Now you have a copy of your avatar and can upload it to Github when it asks for an avatar. 
 
 ### Exploring Github
+Since you've just joined Github, their won't be much on your account page. Let's have a look at DIY's page. Go to [www.github.com/diy](www.github.com/diy). 
+
 > screencast - repository, users, organizations, fork (but we'll talk more about what you can do with files later), explore page, octocat.
 
-> screenshots
+![github organization page](http://diy-visualpedia.s3.amazonaws.com/github-org-page-01.png)
 
-* REPOSITORY - Typically called "repo" these are projects on Github. 
-* USERS - everyone on github is a user
-* ORGANIZATION - Companies have accounts on Github, the users who contribute to their code are typically their employees or others close to the organization.
-* FORK - A fork is when someone duplicates the repository so that they can use or work on the code on their computer. We'll talk more about this later.
-* OCTOCAT - He's the official mascot of Github and in someways, programing and open source. [Look at all his personalities!](http://octodex.github.com/)
+1. **Organization** Companies have accounts on Github, the users who contribute to their code are typically their employees or others close to the organization.
+2. **Users** Everyone on Github is a user. Some users belong to organizations.
+3. **Repository** Typically called "repo" these are projects on Github.
 
-> diagram of repo
+![github repo](http://diy-visualpedia.s3.amazonaws.com/github-repo-01.png)
+> Elements of a repository when shown in a list
 
 ### Explore the Repo
 Go to [github.com/diy](http://github.com/diy) and click the repo called Open-Sourcerer. Now you're on the page for this repo. You can see the files inside the repo, the readme.md and see when changes have been made to them, these are called *commits*.
 
-> diagram of repo page
+![diy repo](http://diy-visualpedia.s3.amazonaws.com/repo-page-dia-01.png)
+> Parts of a repository's page
+
 
 ### Using Git and Bash
-We're going to be copying files from Github, putting them our computer then making changes and then sending them back to Github to store and make available to everyone else. To do this, we'll use **Git** and **Bash**. With these tools we can talk to our computer and Github and tell them both what to do with files. 
+We're going to be copying files from Github, putting them our computer, making changes to them and then sending them back to Github to store and make available to everyone else. To do this, we'll use **Git** and **Bash**. With these tools we can talk to our computer and Github and tell them both what to do with files. 
 
 ### Install Git
 1. Visit [git-scm.com](http://git-scm.com) and download the latest version for your operating system.
-* In Nac, you won't notice anything or see the application installed, but it will install on your computer.
+* In Mac, you won't notice anything or see the application installed, but it will install on your computer.
 * In Windows, hit ok or next for all options, then finish and you don't have to review notes.
 
 ### Bash 
+![mac terminal icon](http://diy-visualpedia.s3.amazonaws.com/mac-terminal.png)
+
 In Mac you've already got Bash. If you go to your `Launchpad` and search for `Terminal`, this is the application you'll use.
+
+![windows git bash icon](http://diy-visualpedia.s3.amazonaws.com/git-bash-icon.png)
 
 In Windows you got Bash when you installed Git. Go to `Programs` > `Git` and select `Git Bash`.
 
