@@ -8,7 +8,10 @@ The phrase is most commonly used to refer to code and programing. The code that 
 Open Source projects are great because everyone can learn from each other and everyone can help each other make something really fantastic. 
 
 ## Git and Github
-Git is a software that helps manage your code. It helps you see the changes that you've made, called *diffs*, and undo changes when you've saved mistakes! Github makes Git even easier and social. With Github you can put your code online and share it with others. Users can create new projects and work together on projects. You can help someone thousands of miles away with their project! 
+
+![simply git](http://diy-visualpedia.s3.amazonaws.com/git-graphic-01.png)
+
+Git is software that helps manage your code. It allows you see the changes that you've made, called *diffs*, and undo changes when you've saved mistakes! Github makes Git even easier and social. With Github you can put your code online and share it with others. Users can create new projects and work together on projects -- making something better, together. 
 
 Lots of places use Github for their code and a lot of places open source their code. Here is [DIY's account](https://github.com/diy) - all of our code that runs the website and app is stored on Github and we've made xxx projects open source. The [New York Times](https://github.com/NYTimes), [Facebook](https://github.com/facebook), an [Mojang](https://github.com/Mojang) who make Minecraft are on Github, too. 
 
@@ -17,21 +20,20 @@ Oh, and Github has a cool mascot, Octocat, check out all the [personalities](htt
 
 ### Make a Github Account
 1. Visit www.github.com and sign up for a free account. 
-2. You can use your DIY avatar as your avatar on Github, here's how:
-    * In another tap, go to your DIY profile page. 
-    * Right-click on your avatar and select "save as" and put the file somewhere you'll remember on your computer.
-    * Now you have a copy of your avatar and can upload it to Github when it asks for an avatar. 
+* You'll need an email address to create an account. 
 
 ### Exploring Github
-Since you've just joined Github, their won't be much on your account page. Let's have a look at DIY's page. Go to [www.github.com/diy](www.github.com/diy). 
+Since you've just joined Github, there won't be much on your account page. Let's have a look at DIY's page. Go to [www.github.com/diy](www.github.com/diy). 
 
 > screencast - repository, users, organizations, fork (but we'll talk more about what you can do with files later), explore page, octocat.
 
 ![github organization page](http://diy-visualpedia.s3.amazonaws.com/github-org-page-01.png)
 
-1. **Organization** Companies have accounts on Github, the users who contribute to their code are typically their employees or others close to the organization.
-2. **Users** Everyone on Github is a user. Some users belong to organizations.
-3. **Repository** Typically called "repo" these are projects on Github.
+1. **Users** Everyone on Github is a user. Some users belong to organizations.
+2. **Organization** Organizations have accounts on Github, the users who contribute to their code are called **members** and typically are employees or others close to the organization.
+3. **Repository** These are projects on Github, they contain all the project's instructions and files. Often people say "repo," short for repository. Public repos are open source! 
+
+On pages that list repos such as an organization's page, you can quickly see the language used in the repo, the number of favorites the repo has and how many people have forked a copy of the repo (we'll talk more about forking later). 
 
 ![github repo](http://diy-visualpedia.s3.amazonaws.com/github-repo-01.png)
 > Elements of a repository when shown in a list
