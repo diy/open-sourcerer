@@ -49,9 +49,11 @@ Go to [github.com/diy](http://github.com/diy) and click the repo called Open-Sou
 We're going to be copying files from Github, putting them our computer, making changes to them and then sending them back to Github to store and make available to everyone else. To do this, we'll use **Git** and **Bash**. With these tools we can talk to our computer and Github and tell them both what to do with files. 
 
 ### Install Git
+*A few of the steps may require your computer's password if one is set*
+
 1. Visit [git-scm.com](http://git-scm.com) and download the latest version for your operating system.
 * In Mac, you won't notice anything or see the application installed, but it will install on your computer.
-* In Windows, hit ok or next for all options, then finish and you don't have to review notes.
+* In Windows, hit *Ok* or *Next* for all options, then finish (you don't have to review notes).
 
 ### Bash 
 ![mac terminal icon](http://diy-visualpedia.s3.amazonaws.com/mac-terminal.png)
@@ -63,6 +65,8 @@ In Mac you've already got Bash. If you go to your `Launchpad` and search for `Te
 In Windows you got Bash when you installed Git. Go to `Programs` > `Git` and select `Git Bash`.
 
 We'll refer to both Mac's *Terminal* and Window's *Git Bash* as just *Bash*.
+
+> screenshot of both a terminal and git bash window
 
 Let's check our git in Bash. In the Bash window type:
 
@@ -81,26 +85,20 @@ We need to tell Git who we are so that when we move files around it knows who is
 ![git config](http://diy-visualpedia.s3.amazonaws.com/git-config.png)
 
 ## Let's Get to Work!
-We want to make changes to a file in DIY's Open-Sourcerer repo and sumbit those changes back to DIY so that they can be incorporated into the original. Then everyone will be able to see each others additions and work together to build something.
+DIY has a repo with a story in it, we need everyone to help complete the story by adding parts to it.
 
 ### Fork
-This is how we create a remote copy (that means it's stored on Github.com) of a project on our account that stays linked to the original (because we want our changes to affect this original).
+First we create a **remote** copy (that means it's stored on Github.com) of a project on our account that stays linked to the original (because we want our changes to affect this original). This is called a **fork**
 
-![placeholder](http://diy-visualpedia.s3.amazonaws.com/placeholder.jpg)
-> diagram of what fork is in the git universe
-
-1. Go to [github.com/diy](http://github.com/diy) and click on the repo [Open-Sourcerer](https://github.com/diy/open-sourcerer).
-2. Near the top right, click `Fork`. See the animation? This means we're creating a copy of the code onto our account and it will be linked to the original on DIY's account. 
+1. If you're not already there, go to [github.com/diy](http://github.com/diy) and click on the repo [Open-Sourcerer](https://github.com/diy/open-sourcerer).
+2. Near the top right, click `Fork`. See the animation? This means we're creating a copy of the code onto our account that will be linked to the original on DIY's account. 
 
 ![forking](http://diy-visualpedia.s3.amazonaws.com/repo-fork.png)
 
 ### Clone 
-Now that we've forked the files to our Github account, we need to clone (aka copy) them so that we have a local (on our computer) version of the files. Our clone will be linked to our fork which is linked to the DIY original.
+Now that we've forked the files to our Github account, we need to **clone** (aka copy) them so that we have a local (on our computer) version of the files (this means we can work on them while offline). Our clone will be linked to our fork which is linked to the DIY original.
 
-As we do this, we'll also be learning how to use Bash. By typing comands we can tell the computer to the same things that we do by clicking our mouse. 
-
-![placeholder](http://diy-visualpedia.s3.amazonaws.com/placeholder.jpg)
-> diagram of what clone is in the git universe
+As we do this, we'll also be learning how to use Bash. By typing comands, we can tell the computer to do the same things that we do by clicking our mouse. 
 
 ### Open Bash
 1. Open a new window in bash, or if all you've done is set up git from earlier, you're fine to use the same window.
@@ -137,7 +135,7 @@ Now we've made a folder called myCode inside our Documents folder. Let's put the
 ### Clone the Repo
 3. We want to tell Git to go to the place on the internet where Github is storing our forked files and clone them to where we are right now inside of the myCode folder. Each repo on github has an address for its location. You'll see it following the HTTP and SSH buttons near the top middle of the page. Click on HTTP, this is the address you'll use. 
 
-**Pro tip** the http address will look like this: https://github.com/YOURUSERNAME/open-sourcerer. If you add your user name and the @ symbol before the word 'github', you won't have to enter it in so much later on. That will make the address look like this: https://YOURUSERNAME@github.com/YOURUSERNAME/open-sourcerer. By default this will be our fork's *origin* and *master branch*. 
+**Pro tip** the http address will look like this: https://github.com/YOURUSERNAME/open-sourcerer. If you add your user name and the @ symbol before the word 'github', you won't have to enter it in so much later on. That will make the address look like this: https://YOURUSERNAME@github.com/YOURUSERNAME/open-sourcerer. By default our fork's name is *origin* and it is on the *master branch*. 
 
 > screenshot of SSH addie
 
@@ -158,7 +156,7 @@ You should see a set of filenames that look exactly like the files you see on th
 > screenshot of side by side filenames
 
 ### Connect to Original
-4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the DIY original so that we can **pull** in the most recent changes before we work on ours. If you go back to the DIY page for Open-Sourcerer, you'll see the HTTP address in the near the top middle: https://github.com/diy/open-sourcerer. We're going to name this connection *upstream*.
+4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same as us: forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the DIY original so that we can **pull** in the most recent changes before we work on ours. If you go back to the DIY page for Open-Sourcerer, you'll see the HTTP address in the near the top middle: https://github.com/diy/open-sourcerer. We're going to name this connection *upstream*.
 
 > should they type in their username@ here too?
 
@@ -166,14 +164,14 @@ Type
 
     git remote add upstream https://github.com/diy/open-sourcerer
     
-### Pull
+### Pull Changes
 5. Before we make any additions, we want to make sure we have the latest files by pulling in any changes from the *master* branch *upstream*.
 
 Type
 
     git pull upstream master
 
-If it says 'Already up to date' then no changes have been made since you started setting up! If there were changes, it updated your files. In both cases, your files match the files on DIY's Github.
+If it says 'Already up to date' then no changes have been made since you started setting up! If there were changes, it updated your files. In both cases, your files will match the files on DIY's Github.
 
 ### Edit the File
 Now let's add our part to the story! We can also open up a file from Bash.
@@ -183,6 +181,8 @@ Type
     open collaborative-story.txt
     
 It should open up the file in your computer's text editor. Add your own portion of the story after the last sentence.
+
+> screenshot of how to add a portion
 
 I'll wait... 
 
@@ -210,15 +210,15 @@ Tell Git what file you want to add.
 
     git add collaborative-story
     
-**Pro tip** if you have multiple files and want to add them all, you'll type `git add .` The period means 'all'.
+**Pro tip** if you have multiple files and want to add them all, you'll type `git add .` The period means *all*.
 
 ### Commit Changes
 Now we'll add a *message* describing our changes and attach that to our push.
 
-    git commit -m "your description"
+    git commit -m "your description of changes"
     
 ### Push Changes to our Fork
-Now, finally, we'll actually push our file and message to our fork on Github. 
+Now, finally, we'll actually push our file and message to our fork on Github. Remember our fork's name is origin (it's our *original* file) and the branch is *master*.
 
     git push origin master
     
@@ -246,10 +246,6 @@ Then open up the text file and make changes. Save your changes and then:
     git push origin master
     
 Next, go to your Github page for the repo and select Pull Request. You've done it again!
-
-
-
-
 
 # Dictionary
 
