@@ -7,5 +7,5 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 
 ## If you've added to the story - add your name to this readme.md!
 
-* jlord
+* jllord
 * thisandagain
