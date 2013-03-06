@@ -6,7 +6,7 @@ We'll use the files in this repository to learn how to be open sourcerers - shar
 Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcerer).
 (This isn't live yet, so actually you'll just have to wait. Meanwhile, check out the other [skills](http://www.diy.org/skills) on [DIY.org](http://www.diy.org))
 
-## DIY Makers who have Contributed to this Repo (*note, this will later be a challenge on the skill*)
+## If you've added to the story - add your name to this readme.md!
 
 * jlord
 * thisandagain
