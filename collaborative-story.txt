@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -48,6 +48,8 @@ Then the cat transformed into a pink pegasus and they partied all day and night.
 
 ===
 start the things which is not there..
+
+A bunch of ducks like pizza. 
 
 
 After a very confusing reading, people usually begins with a € here.
