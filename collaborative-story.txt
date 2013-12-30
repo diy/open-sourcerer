@@ -1,4 +1,4 @@
-// This is a story that everyone can add to. 
+﻿// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -46,6 +46,8 @@ She was not a fan of that cat. She tried to make her cat wear a hat but instead 
 Then the cat transformed into a pink pegasus and they partied all day and night.
 
 That's why so many people can't sleep at night.
+
+And would rather be counting sheeps in their dreams...  jumping over a white fence. 
 
 ===
 start the things which is not there..
