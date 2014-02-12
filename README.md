@@ -18,3 +18,5 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 * nusquam
 * Terraffic Hi
 * kststudio
+* itbsStefan
+
