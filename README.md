@@ -10,3 +10,11 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 * jllord
 * thisandagain
 * lethalsilicong5
+* sweepowl
+* rpulis
+* burgzt
+* bigbrows
+* popojino
+* nusquam
+* Terraffic Hi
+* kststudio
