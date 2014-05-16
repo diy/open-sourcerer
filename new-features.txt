@@ -3,4 +3,4 @@
 	New Features for DIY
 
 	1. Ability to search!
-	2.
+	2. New challenges for each skill!
