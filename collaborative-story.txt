@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -63,3 +63,6 @@ Hi Everyone! :-)
 // the fork that wormholed into another space... ࿗ༀ࿉࿅༗࿊༕࿈༖࿋༒࿄࿆࿌࿇
 
 So many forks! I got hungry again!
+
+So I started scouring the kitchen for something to eat with forks. …Spaghetti? …Fruit Salad? Anything?? No not anything – because unfortunately, it turned out that my kitchen had nothing. but. JELLO™. What do you do with so many forks and JELLO™?!
+
