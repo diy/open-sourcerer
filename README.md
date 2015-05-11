@@ -18,4 +18,4 @@ Visit the [DIY Open Sourcerer Skill Page](http://www.diy.org/skills/OpenSourcere
 * nusquam
 * Terraffic Hi
 * kststudio
-* MathWhiz2000[https://diy.org/mathwhiz2000]
+* [MathWhiz2000](https://diy.org/mathwhiz2000)
