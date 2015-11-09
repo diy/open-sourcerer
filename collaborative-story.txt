@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -65,3 +65,19 @@ Hi Everyone! :-)
 So many forks! I got hungry again!
 
 So hungry, in fact, that I ordered some pizza, since I'm a duck
+
+//time for JelloMonster time time! ...Time? Time.
+A few hours after I ordered the pizza, there was a knock on my door, so I opened it with my mind powers. 
+Because ducks don't have opposable thumbs.
+Obviously.
+Instead of a pizza man, there was a bear!
+Wait... why would a bear knock?
+With little time to ask questions, I began to quack and run in circles.
+The bear took a step into my home.
+I ran into my kitchen and found my coffee pot was on, with extra hot coffee dripping into the pot.
+I took the pot from the coffee maker and ran into the living room, and I threw the coffee
+at the bear.
+He was drenched in piping hot coffee!
+//whoops didn't know I was supposed to wait to edit until the Bash part.
+//Sorry. my part of the story was done on GitHub.
+//-JelloMonster118
