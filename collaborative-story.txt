@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -78,3 +78,6 @@ I ran into my kitchen and found my coffee pot was on, with extra hot coffee drip
 I took the pot from the coffee maker and ran into the living room, and I threw the coffee
 at the bear.
 He was drenched in piping hot coffee!
+//whoops didn't know I was supposed to wait to edit until the Bash part.
+//Sorry. my part of the story was done on GitHub.
+//-JelloMonster118
