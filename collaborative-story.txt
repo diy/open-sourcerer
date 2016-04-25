@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -65,3 +65,5 @@ Hi Everyone! :-)
 So many forks! I got hungry again!
 
 So hungry, in fact, that I ordered some pizza, since I'm a duck
+
+Still working 
