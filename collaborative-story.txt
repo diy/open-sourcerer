@@ -1,4 +1,4 @@
-﻿// This is a story that everyone can add to. 
+// This is a story that everyone can add to. 
 // Add a section and then submit a pull request so that it 
 // becomes a part of the original and someone else can add the next part!
 
@@ -65,3 +65,21 @@ Hi Everyone! :-)
 So many forks! I got hungry again!
 
 So hungry, in fact, that I ordered some pizza, since I'm a duck
+
+So far not mentioned in the story there's a Princess. She is humble and savvy and makes very 
+little fuss regarding noblety. Does not compete with other princesses, step-sisters, witches,
+step-mothers or the like, as she is very busy trying to learn several things at the same time
+and the aforementioned nonsense gets past unnoticed.
+
+Being busy studying JavaScript, Linux, CSS, a foreign language, to play piano, design and 
+drawing, she finds it difficult to concentrate and get results. From this she has learnt the 
+value (but not yet the skill) of prioritising and getting things done. So now another set of 
+skills to acquire, the GTD and prioritising...
+
+If one gets into GTD and prioritising and optimising life, there's big danger that one would
+get also into mindfulness and related. So the future of the Princess is still undecided, great
+dangers lie ahead...
+
+To be continued, where the Princess falls in love (another prioritising exercise), experiences
+disappointment, reassesses her life and values and starts a new life, pretty much like the one
+before, but in which is struggling to add as well decluttering. Way to go!
