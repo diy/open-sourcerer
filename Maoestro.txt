@@ -1,0 +1,3 @@
+Igualar a 0 las oportunidades de ganar al rival equivale a victoria propia (Resultado optimo) o > empate (1).
+
+
